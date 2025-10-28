@@ -1,6 +1,6 @@
 # TODO list
 
--[]Github course
--[]Lunch
--[]stocks work
--[]EOD
+- [ ] Github course
+- [ ] Lunch
+- [ ] stocks work
+- [ ] EOD
